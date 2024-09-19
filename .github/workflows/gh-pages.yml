@@ -33,5 +33,5 @@ jobs:
         with:
           PERSONAL_TOKEN: ${{ secrets.ACTION_TOKEN }}
           PUBLISH_DIR: ./public
-          EXTERNAL_REPOSITORY: https://github.com/meroco/meroco.git
+          EXTERNAL_REPOSITORY: meroco/meroco.github.io
           # PUBLISH_BRANCH: master 如果不想推送到gh-pages分支，可以添加这一行
