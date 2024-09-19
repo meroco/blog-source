@@ -24,7 +24,7 @@ params:
         subtitle: Ornithopter
         avatar:
             enabled: true
-            local: true
+            local: false
             src: https://i.loli.net/2021/01/31/UQVZYfcg9LlRtCm.jpg
 
     article:
