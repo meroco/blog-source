@@ -1,0 +1,4 @@
+baseURL = 'https://mint.moe'
+languageCode = 'zh-cn'
+title = 'MEROCO'
+theme = 'stack'
