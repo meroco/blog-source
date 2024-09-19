@@ -20,8 +20,8 @@ jobs:
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v3
         with:
-          hugo-version: '0.134.2' # 注意修改成你的hugo版本，以防兼容性错误
-          extended: true # 是否启用hugo extended
+          hugo-version: '0.134.2' 
+          extended: true
 
       - name: Build
         run: hugo --minify
@@ -32,6 +32,6 @@ jobs:
         if: github.ref == 'refs/heads/main'
         with:
           PERSONAL_TOKEN: ${{ secrets.ACTION_TOKEN }}
-          PUBLISH_DIR: ./public # 注意修改成你使用hugo创建的项目名称
-          EXTERNAL_REPOSITORY: meroco/meroco.github.io # 你的Github Pages远程仓库名
+          PUBLISH_DIR: ./public
+          EXTERNAL_REPOSITORY: https://github.com/meroco/meroco.git
           # PUBLISH_BRANCH: master 如果不想推送到gh-pages分支，可以添加这一行
