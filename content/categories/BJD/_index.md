@@ -1,6 +1,6 @@
 ---
 title: "娃娃"
-description: "BJD摄影"
+description: "BJD"
 slug: "BJD"
 image: 
 style:
