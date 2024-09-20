@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>MDD on MEROCO</title>
-        <link>http://localhost:1313/tags/mdd/</link>
-        <description>Recent content in MDD on MEROCO</description>
+        <title>摄影 on MEROCO</title>
+        <link>http://localhost:1313/tags/%E6%91%84%E5%BD%B1/</link>
+        <description>Recent content in 摄影 on MEROCO</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
-        <lastBuildDate>Thu, 19 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/mdd/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Thu, 19 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/%E6%91%84%E5%BD%B1/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>采花大盗魔理沙</title>
         <link>http://localhost:1313/post/sunflowers2024/%E6%91%84%E5%BD%B1/</link>
         <pubDate>Thu, 19 Sep 2024 00:00:00 +0000</pubDate>
