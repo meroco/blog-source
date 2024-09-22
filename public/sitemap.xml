@@ -41,11 +41,13 @@
     <loc>http://localhost:1313/post/sunflowers2023/</loc>
     <lastmod>2023-07-17T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/page/archives/</loc>
+    <lastmod>2022-03-06T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/page/</loc>
     <lastmod>2022-03-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/page/archives/</loc>
-    <lastmod>2022-03-06T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/page/about/</loc>
   </url><url>
     <loc>http://localhost:1313/page/links/</loc>
   </url><url>

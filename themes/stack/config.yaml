@@ -118,13 +118,24 @@ params:
             id:
 
     widgets:
-        homepage: []
-        page: []
+        homepage:
+            - type: search
+            - type: archives
+              params:
+                  limit: 5
+            - type: categories
+              params:
+                  limit: 10
+            - type: tag-cloud
+              params:
+                  limit: 10
+        page:
+            - type: toc
 
     opengraph:
-        twitter:
+        twitter: 
             # Your Twitter username
-            site:
+            site: 
 
             # Available values: summary, summary_large_image
             card: summary_large_image
@@ -147,3 +158,28 @@ params:
             enabled: true
         content:
             enabled: true
+
+    related:
+        includeNewer: true
+        threshold: 60
+        toLower: false
+        indices:
+            - name: tags
+              weight: 100
+
+            - name: categories
+              weight: 200
+
+# menu:
+    social:
+        - identifier: qq
+          name: QQ
+          url: https://qm.qq.com/q/BgZFNA938I
+          params:
+              icon: qq
+
+        - identifier: twitter
+          name: Twitter
+          url: https://x.com/meroco_moe
+          params:
+              icon: brand-twitter
