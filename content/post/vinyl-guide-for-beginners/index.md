@@ -7,18 +7,18 @@ categories:
 tags:
     - 黑胶
     - HIFI
-image: https://github.com/meroco/picx-images-hosting/raw/master/vinyl-record.4qrac7bka7.jpg
+image: https://s2.loli.net/2024/09/23/7hcFlnrs3fjE62Y.jpg
 ---
 黑胶唱片市场近几年来越来越热闹，唱片市场的繁荣带来了一大批新鲜血液，大家出于各种目的购买黑胶，或收藏、或当装饰品、或倒卖，当然还有一部分朋友单纯想听黑胶唱片，那么就需要购买一台电唱机。现在市面上在销售的唱机很多，价格区间很宽，有不少博主做过黑胶唱机的购买指导建议，大多数仅针对低端消费级市场，因此对音质稍有追求的朋友很难找到合适的参考，我写这篇文章的目的就是为了帮助这批朋友认识黑胶唱机，从而知晓自己的选择方向。下面就让我们进入正题。
 
 # 黑胶系统构成
 一个完整的黑胶回放系统包含唱盘>唱放>前级>后级>扬声器，入门级系统会做一定简化，前级和后级合并做成一体机功放，甚至连唱放都能集成，功放和扬声器的搭配是另一个话题，这里不做讨论。唱盘还能细分成**唱头>唱臂>转盘**三部分，加上**唱放**就是我要讨论的主体。
-![vinyl-turntable](https://github.com/meroco/picx-images-hosting/raw/master/vinyl-turntable.2krvqfzjia.jpg)
+![vinyl-turntable.2krvqfzjia.jpg](https://s2.loli.net/2024/09/23/zy6NXPlZw7ShoQ3.jpg)
 ## 唱头（Cartridge）
 唱头有多重要我就不再赘述了，根据原理大致分为三类：**动磁**（MM）、**动铁**（MI）、**动圈**（MC）。~DS Audio的光电头不做讨论。~
 唱头主要考虑MM和MC（鉴于MI只有两家在做，后面会稍微提一嘴），MM唱头价格便宜，整套下来价格有很大优势，MC唱头上限更高价格也更高，这是毋庸置疑的事实，但是决定音质的并不是唱头类型，而是唱头的价格，毕竟2000元的MC唱头不可能胜过4000元甚至近万元的MM唱头，万元以上的MI唱头也不弱于同价位的MC唱头。既然如此，你肯定会想是什么决定了唱头的价格？在有限的预算下如何买到尽可能好的唱头？
 大致上可以将3000元以下的唱头归纳为准入门，3000-6000为入门，6000-1万为中端，1到2万为高端，2万以上为准旗舰和旗舰。我着重讲入门和准入门，毕竟这才是大部分玩家的起点。
-![grado-cartridge](https://github.com/meroco/picx-images-hosting/raw/master/grado-cartridge.45nbisnlx.jpg)
+![grado-cartridge.45nbisnlx.jpg](https://s2.loli.net/2024/09/23/eBFD78XNkytnSHr.jpg)
 ### 针尖
 安装方式分**接合**（Bonded）和**裸钻**（Nude）两种，只需要知道后者更好也更贵即可。打磨形状大致可分为**圆锥形**（Spherical）、**椭圆形**（Elliptical）、**线性**（Linear）、**柴田**（Shibata）、**微线性**（Micro Linear）及**各家特制的线性变种**。直接说结论，低端唱头往往是圆形或者椭圆形（也有部分厂商通过扩产降本的方法在入门产品上用微线性针尖，比如铁三角AT-VM95ML），高端无一例外是微线性或各家的线性变种，微线性的特点是细，能够深入唱片刻纹挖掘信息，寻迹能力更好，内圈失真更低，所以原则上尽可能选择微线性唱头。
 ### 针杆

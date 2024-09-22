@@ -7,12 +7,14 @@ categories:
 tags:
     - MDD
     - 摄影
-image: https://github.com/meroco/picx-images-hosting/raw/master/molisha03.99tbehepcw.jpg
+image: https://s2.loli.net/2024/09/23/lMI7BeSQwo3my9x.jpg
 ---
 
 花期将尽，没能拍到盛开的花海，稍显遗憾。携带了反光板，但是并没有使用，导致娃娃脸上阴影太硬，立体感太强了。
-![molisha02](https://github.com/meroco/picx-images-hosting/raw/master/molisha02.2vepivwstr.jpg)
-![molisha03](https://github.com/meroco/picx-images-hosting/raw/master/molisha03.99tbehepcw.jpg)
-除了数码照片外，我还带了中画幅胶片，效果都不满意，总结原因：1、当天是阴天，无法排出湛蓝的天空。2、娃娃面部光比太大，不适合二次元角色。3、向日葵都低头结籽了，找不到较矮的适合拍摄的向日葵。希望明年夏天能拍出，满意的向日葵娃片。
+![molisha02.2vepivwstr.jpg](https://s2.loli.net/2024/09/23/e3NBiYr4oIWcxmQ.jpg)
+除了数码照片外，我还带了中画幅胶片，效果都不满意。总结原因：
+1. 当天是阴天，无法拍出湛蓝的天空。
+2. 娃娃面部光比太大，会形成强烈的体积感，不适合用于表现二次元角色。
+3. 向日葵都低头结籽了，找不到较矮的适合拍摄的向日葵。希望明年夏天能拍出，满意的向日葵娃片。
 
 > 2023年7月2日摄于北塘现代农业观光园。
