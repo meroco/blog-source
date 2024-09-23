@@ -1,5 +1,5 @@
 ---
-title: Links
+title: 链接
 links:
   - title: Bilibili
     description: 我的B站视频空间
