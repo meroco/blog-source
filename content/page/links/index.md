@@ -7,11 +7,11 @@ links:
     image: https://s2.loli.net/2024/01/31/dFDKsec7NGShTCt.png
 menu:
     main: 
-        weight: 4
+        weight: 5
         params:
             icon: link
 
-comments: false
+comments: true
 ---
 
 
