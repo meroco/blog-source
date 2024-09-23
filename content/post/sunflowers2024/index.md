@@ -7,6 +7,7 @@ categories:
 tags:
     - MDD
     - 摄影
+    - 柯达E100
 image: https://s2.loli.net/2024/09/23/nhrxvpqkFKYjN6T.jpg
 ---
 去年向日葵娃片拍得不满意，埋下了种子，今年特意拍了两次，总算是留下了自己满意的照片。

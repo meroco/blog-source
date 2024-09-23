@@ -1,5 +1,5 @@
 baseURL = 'https://mint.moe'
 languageCode = 'zh-cn'
+DefaultContentLanguage = 'zh-cn'
 theme = 'stack'
 title = "MEROCO"
-DefaultContentLanguage = 'zh-cn'

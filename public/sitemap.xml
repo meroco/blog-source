@@ -32,6 +32,9 @@
     <loc>http://localhost:1313/post/sunflowers2024/</loc>
     <lastmod>2024-09-19T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/%E6%9F%AF%E8%BE%BEe100/</loc>
+    <lastmod>2024-09-19T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/%E6%91%84%E5%BD%B1/</loc>
     <lastmod>2024-09-19T00:00:00+00:00</lastmod>
   </url><url>
@@ -41,15 +44,17 @@
     <loc>http://localhost:1313/post/sunflowers2023/</loc>
     <lastmod>2023-07-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/page/archives/</loc>
+    <loc>http://localhost:1313/page/</loc>
     <lastmod>2022-03-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/page/</loc>
+    <loc>http://localhost:1313/page/archives/</loc>
     <lastmod>2022-03-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/page/about/</loc>
   </url><url>
     <loc>http://localhost:1313/page/links/</loc>
+  </url><url>
+    <loc>http://localhost:1313/categories/photography/</loc>
   </url><url>
     <loc>http://localhost:1313/page/search/</loc>
   </url>
