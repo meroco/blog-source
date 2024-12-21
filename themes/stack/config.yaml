@@ -73,7 +73,7 @@ params:
 
         # Waline client configuration see: https://waline.js.org/en/reference/client/props.html
         waline:
-            serverURL: waline-git-main-merocos-projects.vercel.app
+            serverURL: waline.mint.moe
             lang: zh-CN
             visitor:
             avatar:
