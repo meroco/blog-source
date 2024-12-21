@@ -78,13 +78,13 @@ params:
             visitor:
             avatar:
             emoji:
-                - https://cdn.jsdelivr.net/gh/walinejs/emojis/weibo
+                - https://cdn.staticfile.org/gh/walinejs/emojis/bilibili
             requiredMeta:
                 - nick
                 - mail
             locale:
-                admin: Admin
-                placeholder:
+                admin: 主人
+                placeholder: 欢迎留下友好的评论。
 
         twikoo:
             envId:
