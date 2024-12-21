@@ -78,7 +78,9 @@ params:
             visitor:
             avatar:
             emoji:
-                - https://cdn.staticfile.org/gh/walinejs/emojis/bilibili
+                - https://npm.elemecdn.com/@waline/emojis@1.1.0/bilibili
+                - https://npm.elemecdn.com/@waline/emojis@1.2.0/qq
+                - https://npm.elemecdn.com/@waline/emojis@1.2.0/weibo
             requiredMeta:
                 - nick
                 - mail
