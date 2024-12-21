@@ -17,6 +17,8 @@ comments: false
 * 相机：
  * 135画幅：Nikon F80D
  * 120画幅：Rolleiflex 3.5F、Mamiya RB67 ProSD
+ * 幻灯机：Rollei P66S
+
  * 数码相机：Nikon Z5 24-70 F4S
 * 数播：WiiM Pro Plus
 * 黑胶转盘：Kuzma Stabi SD 9 with PS AC Power Supply
