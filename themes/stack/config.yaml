@@ -79,7 +79,6 @@ params:
             avatar:
             emoji:
                 - https://npm.elemecdn.com/@waline/emojis@1.1.0/bilibili
-                - https://npm.elemecdn.com/@waline/emojis@1.2.0/qq
                 - https://npm.elemecdn.com/@waline/emojis@1.2.0/weibo
             requiredMeta:
                 - nick
@@ -172,13 +171,13 @@ params:
             - name: categories
               weight: 200
 
-# menu:
+menu:
     social:
-        - identifier: qq
-          name: QQ
-          url: https://qm.qq.com/q/BgZFNA938I
+        - identifier: xiaohongshu
+          name: 小红书
+          url: https://www.xiaohongshu.com/user/profile/63eddcdf000000001001f95e
           params:
-              icon: qq
+              icon: xiaohongshu
 
         - identifier: twitter
           name: Twitter

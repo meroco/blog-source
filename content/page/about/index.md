@@ -23,9 +23,9 @@ comments: false
 * 数播：WiiM Pro Plus
 * 黑胶转盘：Kuzma Stabi SD 9 with PS AC Power Supply
 * 唱臂：Kuzma Stogi S、JVC/Victor UA-7045、Grace G-707
-* 唱头：Grado Reference3、Grado Opus3、Audio-Technica AT33MONO 
+* 唱头：Grado Reference3、~~Grado Opus3、~~Audio-Technica AT33MONO、Phasemation PP-200
 * 唱头架：Yamamoto Sound Craft HS-4、HS-2
-* 唱放：Musical Surroundings Nova 3 with Linear Charging Power Supply
+* 唱放：Pass Labs XP-17、Musical Surroundings Nova 3 with Linear Charging Power Supply
 * 耳放：Niuniu Audio AMP Designed for Grado
 * 耳机：Grado RS-1、Sennheiser HD600
 * 功放：Yamaha A-S1200
