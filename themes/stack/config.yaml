@@ -174,7 +174,7 @@ params:
 menu:
     social:
         - identifier: xiaohongshu
-          name: 小红书
+          name: Xiaohongshu
           url: https://www.xiaohongshu.com/user/profile/63eddcdf000000001001f95e
           params:
               icon: xiaohongshu
@@ -185,4 +185,15 @@ menu:
           params:
               icon: brand-twitter
 
+        - identifier: qq
+          name: QQ
+          url: https://qm.qq.com/q/PR640d8S8A
+          params:
+              icon: qq
+
+        - identifier: bilibili
+          name: BiliBili
+          url: https://space.bilibili.com/643842
+          params:
+              icon: bilibili
 
