@@ -173,6 +173,12 @@ params:
 
 menu:
     social:
+        - identifier: bilibili
+          name: BiliBili
+          url: https://space.bilibili.com/643842
+          params:
+              icon: bilibili
+
         - identifier: xiaohongshu
           name: Xiaohongshu
           url: https://www.xiaohongshu.com/user/profile/63eddcdf000000001001f95e
@@ -187,13 +193,9 @@ menu:
 
         - identifier: qq
           name: QQ
-          url: https://qm.qq.com/q/PR640d8S8A
+          url: https://qm.qq.com/q/iwpfOfThQ
           params:
               icon: qq
 
-        - identifier: bilibili
-          name: BiliBili
-          url: https://space.bilibili.com/643842
-          params:
-              icon: bilibili
+
 
