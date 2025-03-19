@@ -179,8 +179,8 @@ menu:
           params:
               icon: bilibili
 
-        - identifier: xiaohongshu
-          name: Xiaohongshu
+        - identifier: rednote
+          name: Rednote
           url: https://www.xiaohongshu.com/user/profile/63eddcdf000000001001f95e
           params:
               icon: xiaohongshu
