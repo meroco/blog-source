@@ -185,17 +185,12 @@ menu:
           params:
               icon: xiaohongshu
 
-        - identifier: twitter
-          name: Twitter
-          url: https://x.com/meroco_moe
-          params:
-              icon: brand-twitter
-
-        - identifier: qq
-          name: QQ
-          url: https://qm.qq.com/q/iwpfOfThQ
-          params:
-              icon: qq
+       # - identifier: twitter
+       #   name: Twitter
+       #   url: https://x.com/meroco_moe
+       #  params:
+       #      icon: brand-twitter
+       
 
 
 
