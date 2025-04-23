@@ -15,8 +15,7 @@ comments: false
 - 标签：手绘、摄影、碟霸、胶佬、娃娃
 - 相机：
     > 135画幅：Nikon F80D  
-    > 120画幅：Rolleiflex 3.5F、Mamiya RB67 ProSD  
-    > 数码相机：Nikon Z5 24-70 F4S
+    > 120画幅：Rolleiflex 3.5F、Mamiya RB67 ProSD
 - 幻灯机：Rollei P66S
 - 唱机：Kuzma Stabi SD 9 with PS AC Power Supply
 - 唱臂：Kuzma Stogi S、JVC/Victor UA-7045、Grace G-707
