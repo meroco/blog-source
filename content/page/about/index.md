@@ -22,8 +22,9 @@ comments: false
 - 唱头：Grado Reference3、Phasemation PP-200、Audio-Technica AT33MONO
 - 唱头壳：Yamamoto Sound Craft HS-4、HS-2
 - 唱放：Pass Labs XP-17、Musical Surroundings Nova 3 with Linear Charging Power Supply
-- 耳放：Niuniu Audio AMP Designed for Grado
-- 耳机：Grado RS-1X、Sennheiser HD600
+- 唱臂线：Cardas Cross Phono Cable、Zonotone 6NTW-6060 Meister
+- 耳放：~~Niuniu Audio AMP Designed for Grado~~、Topping A90 Discrete
+- 耳机：Grado GS1000、Grado RS1X、Sennheiser HD600
 - 功放：Yamaha A-S1200
 - 喇叭：ELAC BS 283
 - 机架：Solidsteel S3-3
