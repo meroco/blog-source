@@ -18,15 +18,15 @@ comments: false
     > 120画幅：Rolleiflex 3.5F、Mamiya RB67 ProSD
 - 幻灯机：Rollei P66S
 - 唱机：Kuzma Stabi SD 9 with PS AC Power Supply
-- 唱臂：Kuzma Stogi S、JVC/Victor UA-7045、Grace G-707
+- 唱臂：Kuzma Stogi S、JVC/Victor UA-7045
 - 唱头：Grado Reference3、Phasemation PP-200、Audio-Technica AT33MONO
 - 唱头壳：Yamamoto Sound Craft HS-4、HS-2
 - 唱放：Pass Labs XP-17、Musical Surroundings Nova 3 with Linear Charging Power Supply
 - 唱臂线：Cardas Cross Phono Cable、Zonotone 6NTW-6060 Meister
-- 耳放：~~Niuniu Audio AMP Designed for Grado~~、Topping A90 Discrete
+- 耳放：Burson Audio Soloist Voyager Max、~~Niuniu Audio AMP Designed for Grado、Topping A90 Discrete~~
 - 耳机：Grado GS1000、Grado RS1X、Sennheiser HD600
 - 功放：Yamaha A-S1200
-- 喇叭：ELAC BS 283
+- 喇叭：Polk Audio Monitor XT20、~~ELAC BS 283~~
 - 机架：Solidsteel S3-3
 - 脚架：Solidsteel SS-6
 
