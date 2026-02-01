@@ -3,7 +3,7 @@ title: 我的黑胶系统组建历程
 description: 希望能给初接触黑胶，想稍微提高听音体验的朋友提供参考
 date: 2025-04-12
 slug: my-vinyl-system
-image: https://img.mint.moe/2025/04/abb8c56e5148bdcf117af79e1877da7d.jpg
+image: https://img.mint.moe/2026/02/7531205b0db819e0124899c6268e713f.jpg
 categories:
     - VINYL
 tags:
