@@ -15,7 +15,7 @@ comments: false
 标签：手绘、摄影、碟霸、胶佬、娃娃
 > **摄影**
 > - 相机：
->   - 135画幅：Nikon F80D  
+>   - 135画幅：Nikon Z5 (Nikkor Z 24-70mm f/4 S、Nikkor Z 70-180mm f/2.8)、Nikon F80D
 >   - 120画幅：Rolleiflex 3.5F、Mamiya RB67 ProSD
 > - 幻灯机：Rollei P66S
 
@@ -32,7 +32,7 @@ comments: false
 >    - 前级/耳放：Burson Audio Soloist Voyager Max、~~Niuniu Audio AMP Designed for Grado、Topping A90 Discrete~~
 >    - 功放：Yamaha A-S1200
 > - 换能器：
->    - 耳机：Grado GS1000、Grado RS1X、Sennheiser HD600
+>    - 耳机：Grado GS1000、Grado RS1X、MOONDROP SKYLAND、Sennheiser HD600
 >    - 喇叭：Polk Audio Monitor XT20、~~ELAC BS 283~~
 > - 周边：
 >    - 电处：PS Audio Stellar PowerPlant 3
