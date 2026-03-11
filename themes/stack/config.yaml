@@ -38,14 +38,14 @@ params:
 
     comments:
         enabled: true
-        provider: waline
+        provider: disqusjs
 
         disqusjs:
-            shortname:
-            apiUrl:
-            apiKey:
-            admin:
-            adminLabel:
+            shortname: meroco
+            apiUrl: https://disqus.skk.moe/disqus/
+            apiKey: vdR0KyA1Zkw9jvq4JwIAUszn8nNbhvuvsvmYlK98YDXuE19geBz4yGSXZsdRjK4L
+            admin: meroco
+            adminLabel: 毛毛
 
         utterances:
             repo:
