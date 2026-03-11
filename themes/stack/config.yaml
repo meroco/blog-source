@@ -42,7 +42,7 @@ params:
 
         disqusjs:
             shortname: meroco
-            apiUrl: https://disqus.skk.moe/disqus/
+            apiUrl: https://disqus.mint.moe/api/
             apiKey: vdR0KyA1Zkw9jvq4JwIAUszn8nNbhvuvsvmYlK98YDXuE19geBz4yGSXZsdRjK4L
             admin: meroco
             adminLabel: 毛毛
