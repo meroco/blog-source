@@ -30,7 +30,7 @@ comments: false
 >    - 数字源：FiiO M21
 > - 放大：
 >    - 前级/耳放：Burson Audio Soloist Voyager Max、~~Niuniu Audio AMP Designed for Grado、Topping A90 Discrete~~
->    - 功放：Yamaha A-S1200
+>    - 功放：Douk Audio D1、~~Yamaha A-S1200~~
 > - 换能器：
 >    - 耳机：Grado GS1000、Grado RS1X、MOONDROP SKYLAND、Sennheiser HD600
 >    - 喇叭：Polk Audio Monitor XT20、~~ELAC BS 283~~
