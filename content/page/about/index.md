@@ -21,18 +21,18 @@ comments: false
 
 > **HiFi**
 > - 讯源：
->    - 唱机：Kuzma Stabi SD 9 with PS AC Power Supply
+>    - 唱机：Kuzma Stabi SD 9 with PS AC Power Supply、~~Technics SL-100C~~
 >    - 唱臂：Kuzma Stogi S、JVC/Victor UA-7045
->    - 唱头：Audio-Technica AT-ART9XI、Grado Reference3、Phasemation PP-200、Audio-Technica AT33MONO
+>    - 唱头：Audio-Technica AT-ART9XI、Grado Reference3、Phasemation PP-200、Audio-Technica AT33MONO、~~Ortofon Quintet Blue、Grado Opus3~~
 >    - 唱头壳：Yamamoto Sound Craft HS-4、HS-2
 >    - 唱放：Pass Labs XP-17、Musical Surroundings Nova 3 with Linear Charging Power Supply
 >    - 唱臂线：Cardas Cross Phono Cable、Zonotone 6NTW-6060 Meister
->    - 数字源：FiiO M21
+>    - 数字源：FiiO M21、~~Luxury & Precision LP5~~
 > - 放大：
 >    - 前级/耳放：Burson Audio Soloist Voyager Max、~~Niuniu Audio AMP Designed for Grado、Topping A90 Discrete~~
 >    - 功放：Douk Audio D1、~~Yamaha A-S1200~~
 > - 换能器：
->    - 耳机：Grado GS1000、Grado RS1X、MOONDROP SKYLAND、Sennheiser HD600
+>    - 耳机：Grado GS1000、Grado RS1X、MOONDROP SKYLAND、Sennheiser HD600、~~Grado RS1i、Grado GH2、Alessandro MS-Pro~~
 >    - 喇叭：Polk Audio Monitor XT20、~~ELAC BS 283~~
 > - 周边：
 >    - 电处：PS Audio Stellar PowerPlant 3
