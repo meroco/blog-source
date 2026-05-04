@@ -1,0 +1,196 @@
+module:
+    hugoVersion:
+        extended: true
+        min: "0.87.0"
+
+params:
+    mainSections:
+        - post
+    featuredImageField: image
+    rssFullContent: true
+    favicon: /favicon.ico
+
+    footer:
+        since: 2016
+        customText: 如果你有机会，请放一些花在后院的阿尔吉侬坟上。
+
+    dateFormat:
+        published: Jan 02, 2006
+        lastUpdated: Jan 02, 2006 15:04 MST
+
+    sidebar:
+        compact: false
+        emoji: 🎀
+        subtitle: Ornithopter
+        avatar:
+            enabled: true
+            local: false
+            src: https://img.mint.moe/avatar.jpg
+
+    article:
+        headingAnchor: false
+        math: false
+        toc: true
+        readingTime: false
+        license:
+            enabled: true
+            default: Licensed under CC BY-NC-SA 4.0
+
+    comments:
+        enabled: true
+        provider: disqusjs
+
+        disqusjs:
+            shortname: meroco
+            apiUrl: https://disqus.mint.moe/api/
+            apiKey: vdR0KyA1Zkw9jvq4JwIAUszn8nNbhvuvsvmYlK98YDXuE19geBz4yGSXZsdRjK4L
+            admin: meroco
+            adminLabel: 毛毛
+
+        utterances:
+            repo:
+            issueTerm: pathname
+            label:
+
+        beaudar:
+            repo:
+            issueTerm: pathname
+            label:
+            theme:        
+
+        remark42:
+            host:
+            site:
+            locale:
+
+        vssue:
+            platform:
+            owner:
+            repo:
+            clientId:
+            clientSecret:
+            autoCreateIssue: false
+
+        # Waline client configuration see: https://waline.js.org/en/reference/client/props.html
+        waline:
+            serverURL: waline.mint.moe
+            lang: zh-CN
+            visitor:
+            avatar:
+            emoji:
+                - https://npm.elemecdn.com/@waline/emojis@1.1.0/bilibili
+                - https://npm.elemecdn.com/@waline/emojis@1.2.0/weibo
+            requiredMeta:
+                - nick
+                - mail
+            locale:
+                admin: 主人
+                placeholder: 欢迎留下友好的评论。
+
+        twikoo:
+            envId:
+            region:
+            path:
+            lang:
+
+        giscus:
+            repo:
+            repoID:
+            category:
+            categoryID:
+            mapping:
+            strict:
+            lightTheme:
+            darkTheme:
+            reactionsEnabled: 1
+            emitMetadata: 0
+            inputPosition:
+            lang:
+
+        gitalk:
+            owner:
+            admin:
+            repo:
+            clientID:
+            clientSecret:
+
+        cusdis:
+            host:
+            id:
+
+    widgets:
+        homepage:
+            - type: search
+            - type: archives
+              params:
+                  limit: 5
+            - type: categories
+              params:
+                  limit: 10
+            - type: tag-cloud
+              params:
+                  limit: 10
+        page:
+            - type: toc
+
+    opengraph:
+        twitter: 
+            # Your Twitter username
+            site: 
+
+            # Available values: summary, summary_large_image
+            card: summary_large_image
+
+    defaultImage:
+        opengraph:
+            enabled: false
+            local: false
+            src:
+
+    colorScheme:
+        # Display toggle
+        toggle: true
+
+        # Available values: auto, light, dark
+        default: auto
+
+    imageProcessing:
+        cover:
+            enabled: true
+        content:
+            enabled: true
+
+    related:
+        includeNewer: true
+        threshold: 60
+        toLower: false
+        indices:
+            - name: tags
+              weight: 100
+
+            - name: categories
+              weight: 200
+
+menu:
+    social:
+        - identifier: bilibili
+          name: BiliBili
+          url: https://space.bilibili.com/643842
+          params:
+              icon: bilibili
+
+        - identifier: rednote
+          name: Rednote
+          url: https://www.xiaohongshu.com/user/profile/63eddcdf000000001001f95e
+          params:
+              icon: xiaohongshu
+
+       # - identifier: twitter
+       #   name: Twitter
+       #   url: https://x.com/meroco_moe
+       #  params:
+       #      icon: brand-twitter
+       
+
+
+
