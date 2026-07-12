@@ -9,14 +9,15 @@ menu:
 comments: false
 ---
 
-![about.jpg](https://img.mint.moe/2026/05/afd4a0615edc6c0a8654489c1154c56d.jpg)
+![about.jpg](https://img.mint.moe/about_me.jpg)
 
 昵称：meroco
 标签：手绘、摄影、碟霸、胶佬、娃娃
 > **摄影**
 > - 相机：
->   - 135画幅：Nikon Z5 (Nikkor Z 24-70mm f/4 S、Nikkor Z 70-180mm f/2.8)、Nikon F80D
->   - 120画幅：Rolleiflex 3.5F、Mamiya RB67 ProSD
+>   - 135画幅：Nikon Z 6II (Nikkor Z 24-70mm f/4 S、Nikkor Z 70-180mm f/2.8)、Nikon F80D、~~Nikon Z 5、Nikon D610、Nikon D90、Nikon F、Nikon FM2、Olympus E-M10 II、Olympus XA、Olympus Pen F、Rollei 35S、Pentax MX、Konica Tomato~~
+>   - 120画幅：Rolleiflex 3.5F、~~Mamiya RB67 ProSD、Rolleicord Vb~~
+> - 闪光灯：Godox AD200Pro II * 3、Godox TT600 * 2
 > - 幻灯机：Rollei P66S
 
 > **HiFi**
@@ -32,7 +33,7 @@ comments: false
 >    - 前级/耳放：Burson Audio Soloist Voyager Max、~~Niuniu Audio AMP Designed for Grado、Topping A90 Discrete~~
 >    - 功放：Douk Audio D1、~~Yamaha A-S1200~~
 > - 换能器：
->    - 耳机：Grado GS1000、Grado RS1X、MOONDROP SKYLAND、Sennheiser HD600、~~Grado RS1i、Grado GH2、Alessandro MS-Pro~~
+>    - 耳机：Grado GS1000、MOONDROP SKYLAND、Sennheiser HD600、~~Grado RS1X、Grado RS1i、Grado GH2、Alessandro MS-Pro~~
 >    - 喇叭：Polk Audio Monitor XT20、~~ELAC BS 283~~
 > - 周边：
 >    - 电处：PS Audio Stellar PowerPlant 3
