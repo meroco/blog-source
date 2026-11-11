@@ -1,5 +1,14 @@
-baseURL = 'https://mint.moe'
-languageCode = 'zh-cn'
-DefaultContentLanguage = 'zh-cn'
-theme = 'stack'
+baseURL = "https://mint.moe"
+DefaultContentLanguage = "zh"
 title = "MEROCO"
+locale = "zh"
+hasCJKLanguage = false
+theme = "stack-master"
+
+
+[pagination]
+    pagerSize = 3
+
+[permalinks]
+    post = "/p/:slug/"
+    page = "/:slug/"

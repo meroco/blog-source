@@ -1,0 +1,15 @@
+[[social]]
+    identifier = "rednote"
+    name       = "RedNote"
+    url        = "https://www.xiaohongshu.com/user/profile/63eddcdf000000001001f95e"
+
+    [social.params]
+        icon = "xiaohongshu"
+
+[[social]]
+    identifier = "twitter"
+    name       = "Twitter"
+    url        = "https://x.com/0c0rem"
+
+    [social.params]
+        icon = "brand-twitter"
