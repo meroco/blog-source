@@ -73,11 +73,9 @@ XP-17在上面讲歌德唱头是提了一嘴，现在具体说说，最大特点
 ## 剧场版就是巅峰《M@STERPIECE》
 现在，让我来谈谈这套系统的声音，在此之前，我想先阐明几个观点：常有人说的模拟味，数码味，胆味，再或者XX有氛围适合听爵士乐等，这些模棱两可，抽象笼统的表述全部都是瞎说胡说。器材描述应当基于具体唱片，具体曲目，并且是自己熟悉的音乐，抛开具体音乐谈论器材表现是主观片面且不负责任的。
 ### 测试音乐介绍
-1. 歌剧《Die Zauberflöte/魔笛》唱段《Der Hölle Rache kocht in meinem Herzen/复仇的火焰在我心中燃烧》，女高音Roberta Peters，指挥Karl Böhm，乐团Berliner Philharmoniker![Die Zauberflöte](https://img.mint.moe/2025/04/760747831af019b2ff2edddc3e2761f0.webp)
-2. 协奏曲《Tchaikovsky: Piano Concerto No.1/柴可夫斯基第一钢琴协奏曲》，钢琴Martha Argerich，指挥Kiril Kondrashin，乐团Symphonie-Orchester Des Bayerischen Rundfunks![Tchaikovsky Piano Concerto No.1](https://img.mint.moe/2025/04/cb549b3c417f1d11025112bd6e41699b.webp)
-3. 协奏曲《Mozart: Concerto For Oboe, K. 285d (314)/莫扎特C大调双簧管协奏曲》，双簧管Heinz Holliger，指挥Hans Stadlmair，乐团Münchener Kammerorchester![Mozart Concerto For Oboe, K. 314](https://img.mint.moe/2025/04/66bf71509cc2cbba97d89b88d2338916.webp)
-4. 《輪廻交響楽=Ecophony Rinne》，芸能山城組![輪廻交響楽=Ecophony Rinne](https://img.mint.moe/2025/04/5c43712ada4625ea548c612e04bd9636.webp)
-5. 《White Album 2 Original Soundtrack ~Setsuna & Kazusa~ Special Select》曲目《White Album Live At Campus Fes》，演唱米澤円![White Album 2 Original Soundtrack ~Setsuna & Kazusa~ Special Select](https://img.mint.moe/2025/04/316250d22dd2040ea5b224fda3768c54.webp)
+
+![歌剧《Die Zauberflöte/魔笛》唱段《Der Hölle Rache kocht in meinem Herzen/复仇的火焰在我心中燃烧》，女高音Roberta Peters，指挥Karl Böhm，乐团Berliner Philharmoniker](https://img.mint.moe/2025/04/760747831af019b2ff2edddc3e2761f0.webp) ![协奏曲《Tchaikovsky: Piano Concerto No.1/柴可夫斯基第一钢琴协奏曲》，钢琴Martha Argerich，指挥Kiril Kondrashin，乐团Symphonie-Orchester Des Bayerischen Rundfunks](https://img.mint.moe/2025/04/cb549b3c417f1d11025112bd6e41699b.webp) ![协奏曲《Mozart: Concerto For Oboe, K. 285d (314)/莫扎特C大调双簧管协奏曲》，双簧管Heinz Holliger，指挥Hans Stadlmair，乐团Münchener Kammerorchester](https://img.mint.moe/2025/04/66bf71509cc2cbba97d89b88d2338916.webp) ![《輪廻交響楽=Ecophony Rinne》，芸能山城組](https://img.mint.moe/2025/04/5c43712ada4625ea548c612e04bd9636.webp) ![《White Album 2 Original Soundtrack ~Setsuna & Kazusa~ Special Select》曲目《White Album Live At Campus Fes》，演唱米澤円](https://img.mint.moe/2025/04/316250d22dd2040ea5b224fda3768c54.webp)
+
 ---
 ### 回放设备链路
 - PP-200→Stogi S→MS Nova3→niuniu AMP→HD600
