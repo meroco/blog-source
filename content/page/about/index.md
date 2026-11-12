@@ -9,7 +9,7 @@ menu:
 comments: false
 ---
 
-![about.jpg](https://img.mint.moe/about_me.jpg)
+![](https://img.mint.moe/about_me.jpg)
 
 昵称：meroco
 标签：手绘、摄影、碟霸、胶佬、娃娃
