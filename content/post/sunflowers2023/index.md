@@ -1,5 +1,6 @@
 ---
 title: 花丛中的魔理沙
+slug: sunflowers2023
 description: 向日葵2023
 date: 2023-07-17
 categories:

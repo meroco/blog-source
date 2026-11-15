@@ -1,5 +1,6 @@
 ---
 title: 采花大盗魔理沙
+slug: sunflowers2024
 description: 向日葵2024
 date: 2024-09-19
 categories:

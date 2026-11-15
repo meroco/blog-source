@@ -1,5 +1,6 @@
 ---
 title: 2024黑胶唱机漫游
+slug: vinyl-guide-for-beginners
 description: 一些浅薄的心得，写给对音质有一定追求的准入门玩家。
 date: 2024-09-22
 categories:
