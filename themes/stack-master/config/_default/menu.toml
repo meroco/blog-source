@@ -6,6 +6,18 @@
     [social.params]
         icon = "xiaohongshu"
 
+
+
+[[social]]
+    identifier = "bilibili"
+    name       = "BiliBili"
+    url        = "https://space.bilibili.com/643842"
+
+    [social.params]
+        icon = "brand-bilibili"
+
+
+
 [[social]]
     identifier = "twitter"
     name       = "Twitter"

@@ -16,4 +16,4 @@ comments: true
 >   - 闪光灯：Godox AD200Pro II * 3、Godox TT600 * 2
 >   - 幻灯机：Rollei P66S
 
-没划掉是长期持有，想了解可以直接在这里留言。
+划掉的是短期持有，想了解可以直接在这里留言。
